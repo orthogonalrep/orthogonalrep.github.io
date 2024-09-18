@@ -1,5 +1,3 @@
- 
- 
  setTable();
  selectionMatrix = {};
  selectAll();
